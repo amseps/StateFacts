@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/AM/CLionProjects/cool/cmake-build-debug/run_facts.cpp
+iostream
+-
+bits/stdc++.h
+-
+stdio.h
+-
+string
+-
+fstream
+-
+vector
+-
+state_facts.h
+C:/Users/AM/CLionProjects/cool/cmake-build-debug/state_facts.h
+
+C:/Users/AM/CLionProjects/cool/cmake-build-debug/state_facts.cpp
+iostream
+-
+stdio.h
+-
+vector
+-
+state_facts.h
+C:/Users/AM/CLionProjects/cool/cmake-build-debug/state_facts.h
+
+C:/Users/AM/CLionProjects/cool/cmake-build-debug/state_facts.h
+string
+-
+fstream
+-
+
